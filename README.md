@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
- -  🔭 I’m a Mechanical Engineer, love to work and learn new things. 
+ -  🔭 I’m a Mechanical Engineer, love to work and learn new things.
  -  🌱 I’m currently learning Data Science.
  -  👯 I am currently sharing a bit of my knowledge to the world through my blogs and its open source communities.
  -  📫 How to reach me: 
